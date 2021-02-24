@@ -1,1 +1,1 @@
-# ChEBI-RoBERTa
+# ChEBI-BERT
